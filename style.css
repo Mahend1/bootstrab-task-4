@@ -1,0 +1,11 @@
+.head{
+    background-color: rgb(235, 233, 229);
+}
+.ss{
+    position: relative;
+    top: -19px;
+    font-size: 25px;
+    border: 0px solid blue;
+    padding: 12px; 
+    border-radius: 3px;
+}
